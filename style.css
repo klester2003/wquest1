@@ -1,0 +1,22 @@
+h1{
+text-align: center;
+font-family:
+}
+
+
+.center
+{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width:15%;
+}
+.names
+{
+    float: right;
+    width: 55%;
+    height:46% ;
+}
+h3{
+    text-align: center;
+}
